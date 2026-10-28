@@ -18,5 +18,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Update the `kape` dependency to version `0.1.1`.
 
-[Unreleased]: https://github.com/nivek-ph/kape-rs/compare/kape-memory-v0.1.1...HEAD
-[0.1.1]: https://github.com/nivek-ph/kape-rs/compare/kape-memory-v0.1.0...kape-memory-v0.1.1
+[Unreleased]: https://github.com/nivek3/kape-rs/compare/kape-memory-v0.1.1...HEAD
+[0.1.1]: https://github.com/nivek3/kape-rs/compare/kape-memory-v0.1.0...kape-memory-v0.1.1

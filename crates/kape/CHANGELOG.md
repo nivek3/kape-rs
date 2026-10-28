@@ -14,5 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Allow `Cache::set_many` to accept any iterable of items convertible to
   `SetItem`, including `(key, value, ttl)` tuples and borrowed `SetItem` values.
 
-[Unreleased]: https://github.com/nivek-ph/kape-rs/compare/kape-v0.1.1...HEAD
-[0.1.1]: https://github.com/nivek-ph/kape-rs/compare/kape-v0.1.0...kape-v0.1.1
+[Unreleased]: https://github.com/nivek3/kape-rs/compare/kape-v0.1.1...HEAD
+[0.1.1]: https://github.com/nivek3/kape-rs/compare/kape-v0.1.0...kape-v0.1.1

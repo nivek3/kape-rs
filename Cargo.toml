@@ -13,8 +13,8 @@ resolver = "3"
 edition = "2024"
 rust-version = "1.96"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/nivek-ph/kape-rs"
-homepage = "https://github.com/nivek-ph/kape-rs"
+repository = "https://github.com/nivek3/kape-rs"
+homepage = "https://github.com/nivek3/kape-rs"
 
 [workspace.lints.rust]
 unsafe_code = "forbid"

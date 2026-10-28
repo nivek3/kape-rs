@@ -9,7 +9,7 @@ src = "docs"
 default-theme = "light"
 preferred-dark-theme = "navy"
 no-section-label = true
-git-repository-url = "https://github.com/nivek-ph/kape-rs"
+git-repository-url = "https://github.com/nivek3/kape-rs"
 
 [output.html.search]
 enable = true

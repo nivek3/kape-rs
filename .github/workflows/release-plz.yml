@@ -5,14 +5,14 @@ on:
     branches:
       - main
     paths-ignore:
-      - "examples/**"
-      - "tests/**"
+      - 'examples/**'
+      - 'tests/**'
 
 jobs:
   # Release publishable packages after an approved release PR.
   release-plz-release:
     name: Release-plz release
-    if: ${{ github.repository_owner == 'nivek-ph' }}
+    if: ${{ github.repository_owner == 'nivek3' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -40,7 +40,7 @@ jobs:
   # Create a PR with the new versions and changelog, preparing the next release.
   release-plz-pr:
     name: Release-plz PR
-    if: ${{ github.repository_owner == 'nivek-ph' }}
+    if: ${{ github.repository_owner == 'nivek3' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
